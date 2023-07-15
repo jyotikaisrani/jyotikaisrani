@@ -1,10 +1,13 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Jyotika Israni</h1>
+<h2 align="center">Learner, Researcher, Developer</h2>
+
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **nextjs, java**
+- 💬 Ask me about **NextJs, Java**
 
 - 📫 How to reach me **ijyotikaisrani@gmail.com**
 
@@ -19,6 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotikaisrani&show_icons=true&locale=en" alt="jyotikaisrani" /></p>
 
+<p> I have been a part of several Hackathons, Competitions and Research work. This is my attempt to maintain a log of all of it simultaneously. </p>
 <!--
 **jyotikaisrani/jyotikaisrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
